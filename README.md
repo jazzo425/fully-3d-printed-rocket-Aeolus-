@@ -23,3 +23,12 @@ this project is a fully 3d printed minimum diameter rocket airframe and motor se
  - body tube and fins
  - motor retainer
  - launch lugs
+
+## printer settings (_bambu lab focused_):
+- 90% infill concentric infill pattern
+- 0.08 layer line height (extra fine setting bambu)
+- no surpport (**apart from nose cone and for that supports on build plate only**)
+- wall loops 5
+- Auto circle contour-hole (bambu setting in quality)
+- nozzle temp 240 (temp settings for PLA, and PLA silk)
+- bed temp 60 (smooth PEI plate)
