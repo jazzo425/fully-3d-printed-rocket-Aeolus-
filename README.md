@@ -1,4 +1,4 @@
-# fully 3d printed rocket (Aeolus)
+# fully 3d printed PLA rocket (Aeolus)
 this project is a fully 3d printed minimum diameter rocket airframe and motor securing and nosecone to fit with a standard Quest D20W-8 and made on a bambu a1 mini
 
 ## parts list
