@@ -10,7 +10,7 @@ this project is a fully 3d printed minimum diameter rocket airframe and motor se
 - **Quest d20w - 8** (8 second delay) [where I bought my motor (uk)](https://wizardrockets.co.uk/product/quest-d20-6w/)
 - **ripstop nylon fabric** (60mm by 2500mm streamer size)
 - **access to a sewing machine**
-- **epoxy** (my recommendation is jb weld or gorilla 5 mins two part epoxy)
+- **epoxy** (my recommendation is jb weld or gorilla 5 mins two part epoxy) (optional)
 
  ## files include in project
  - openrocket design 
