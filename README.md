@@ -13,5 +13,6 @@ this project is a fully 3d printed minimum diameter rocket airframe and motor se
 - **epoxy** (my recommendation is jb weld or gorilla 5 mins two part epoxy~)
 
  ## files include in project
- -openrocket design 
- - openrocket after build
+ - openrocket design 
+ - openrocket after build (adjusted weights from my build)
+ - .STL for all 3d priced components
