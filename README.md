@@ -15,4 +15,11 @@ this project is a fully 3d printed minimum diameter rocket airframe and motor se
  ## files include in project
  - openrocket design 
  - openrocket after build (adjusted weights from my build)
- - .STL for all 3d priced components
+ - .STL for all 3d priced components:
+
+ ## .STL file list 
+ - fully assembly
+ - nose cone
+ - body tube and fins
+ - motor retainer
+ - launch lugs
